@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word of comfort: shewing, that the providence of God excellently appeareth in the afflictions of the just.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96920</idno>
+            <idno type="STC">Wing W3559</idno>
+            <idno type="STC">Thomason E340_22</idno>
+            <idno type="STC">ESTC R200883</idno>
+            <idno type="EEBO-CITATION">99861509</idno>
+            <idno type="PROQUEST">99861509</idno>
+            <idno type="VID">159745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159745)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word of comfort: shewing, that the providence of God excellently appeareth in the afflictions of the just.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 15th London 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Suffering --  Religious aspects --  Early works to 1800.</term>
+               <term>Providence and government of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159745:1" rendition="simple:additions"/>
+            <head>A Word of Comfort: <hi>Shewing,</hi> That the Providence of God excellently appeareth in the Afflictions of the Juſt.</head>
+            <p n="1">1. MEN curious in their cenſures, and diſtruſtfull in their acti<g ref="char:EOLhyphen"/>ons, have never ceaſed in all times to argue with Divine Providence about the afflictions of the Juſt; but I, with the aſſiſtance of heaven, intend at this preſent to prove the eter<g ref="char:EOLhyphen"/>nall Wiſdome maketh it ſelfe viſibly appeare, by the ſame things wherewith many think to overthrow it. Now I make it good by foure reaſons: The firſt whereof ſhall ſhew, worldly bleſſings cannot be great but by the experience of evils. Secondly, that tribulation is the nurſing mother of all vertues. Thirdly, that there is no ſpectacle more glorious among the works of God, then an innocent afflicted for juſtice, and patient in affliction. Fourth<g ref="char:EOLhyphen"/>ly, that it is a proofe of beatitude.</p>
+            <p>We then deliver in the beginning of this diſcourſe a notable Maxime drawn out of <hi>Aeneas Gaza,</hi> an ancient Author, inſerted in the Bibliothec of the Fa<g ref="char:EOLhyphen"/>thers:
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Aen. Gaza.</note>
+               <hi>Never doe we ſufficiently know the ſweetneſſe of good, without the tryall of evill. Joſeph</hi> mounted upon the triumphant Chariot of <hi>Pharaoh</hi> by priſons and fetters: <hi>David</hi> to the throne of <hi>Saul</hi> by many perſecutions: And their great proſperities were much more ſweet unto them, becauſe they were fore<g ref="char:EOLhyphen"/>gone by ſharp afflictions. We ſee the ſame in nature; where the Sun is more reſplendent after its eclipſe, the ſea more calme after a tempeſt, and the ayre much brighter after a ſhowre, which made a great States-man ſay,
+<note place="margin">
+                  <hi>Maris coelique temperiem, tur<g ref="char:EOLhyphen"/>bines tempeſta<g ref="char:EOLhyphen"/>teſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> commen<g ref="char:EOLhyphen"/>dant: habet hac vices conditio mortalium, ut adverſa ſecun<g ref="char:EOLhyphen"/>dis, &amp; adverſis ſecun<g ref="char:EOLhyphen"/>dis, &amp; adverſis ſecund a naſcan<g ref="char:EOLhyphen"/>tur. Occultat utrorum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſe<g ref="char:EOLhyphen"/>mina Deus, &amp; plerum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> bono<g ref="char:EOLhyphen"/>rum &amp; malorii cauſae ſub di<g ref="char:EOLhyphen"/>verſa ſpecie la<g ref="char:EOLhyphen"/>tent.</hi> Plin. in Paneg. Trajan.</note>
+               <hi>Stormes and tempeſts contribute to the clearneſſe of the heavens, and the ſmoothneſſe of the ſea. The condition of mortals hath this proper, that adverſities grow out of proſperties, and proſperities from adverſities. God hideth from us the ſeeds both of the one and other, and many times the cauſes of bleſſings and evils are covered under one and the ſame appearance.</hi>
+            </p>
+            <p>One may here object, that if we muſt alwayes have evill to taſt good, we might inferre, Angels then were not ſufficiently happy, becauſe they arrived at Beatitude without paſſing through Tribulations, theſe being the flower-deluces of Gods garden, which neither wrought nor took paines to be clothed with the robe of glory: we might conclude God himſelfe had ſome defect in his felicity, ſince he alwayes hath a moſt accompliſhed beatitude, with excluſion of all manner of evill. I anſwer to that, there is very much difference between the condition of things eternall and temporall. Angels entred almoſt as ſoone into felicity as into being, becauſe they were placed in the upper region of the world, where miſeries cannot approach, and who having beſides a ſingular<pb n="2" facs="tcp:159745:2"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:159745:2"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:159745:3"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:159745:3"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:159745:4"/>knowledge of Gods favour, ſtood not in need to be ayded by the counterpoize of adverſities. But as for us, we are not onely borne in a ſoyle, which is as fertile in calamities as forreſts in birds, and rivers in fiſh, but beſides we are extreme ignorant of Gods grace, when we long enjoy proſperity; which is the cauſe that adverſity, though neceſarily tyed to our condition, maketh us no<g ref="char:EOLhyphen"/>tably open our eyes to know the felicities which follow it, and to underſtand from what ſource they proceed. As for that which concerneth the Divinity, it cannot, to ſpeake properly, endure any thing contrary, by reaſon of the con<g ref="char:EOLhyphen"/>dition of its eſſence, which is fully repleniſhed with all ſorts of beatitude. <hi>God</hi> (ſaid Philon) <hi>is incommunicable to tribulations, he is alwayes vigorous, ever free from dolour or pain, perpetualy in action without wearynes, ſtill plun<g ref="char:EOLhyphen"/>ged in a ſea of moſt pure delights, as being the height, end, and ayme of felicity.</hi>
+            </p>
+            <p>Thereupon unable to ſuffer (as he is God) and yet willing to undergo ſome ſpeciall part in the great ſacrifice of patience which began with the world, he tooke a body, and in that body dranke the cup of the paſſion, ſhewing evidently to all mortals that tribulations by their darkneſſe availe to the brighteſt rayes of glory, which S.
+<hi>Auguſtine</hi> ſpake in very expreſſe termes.</p>
+            <p>
+               <note place="margin">
+                  <hi>Unicus ille de Patris ſubſtan<g ref="char:EOLhyphen"/>tia natus, aequa<g ref="char:EOLhyphen"/>lis Patri in for<g ref="char:EOLhyphen"/>ma Dei, Verbu<g ref="char:cmbAbbrStroke">̄</g> quo facta ſunt omnia, non habe<g ref="char:EOLhyphen"/>bat ubi flagel<g ref="char:EOLhyphen"/>laretur, ad hoc autem in carne indutus eſt, ut ſine flagello non eſſet.</hi> Aug.</note>
+               <hi>The onely Sonne borne of the ſubſtance of the Father, and equall to the Fa<g ref="char:EOLhyphen"/>ther in divine eſſence; the <hi>Word,</hi> by which all things were created, had no<g ref="char:EOLhyphen"/>thing to ſuffer, as God, and is clothed with our fleſh to participate in our puniſhments.</hi>
+            </p>
+            <p n="2">2. The ſecond reaſon, which viſibly ſheweth the ſecret of divine provi<g ref="char:EOLhyphen"/>dence in the tribulation of the Juſt, is, that God being the Soveraigne Sanctity, was neceſſarily to procure and plant it in the ſoules of his elect, by all the moſt effectuall wayes which his wiſdome had ordained. Now there is not any ſhorter way to vertue then a well-managed affliction, and therefore it was neceſſary to maintaine adverſity in the world as the nource of great and generous actions of Chriſtianity.
+<note place="margin">
+                  <hi>Quia eras ac<g ref="char:EOLhyphen"/>ceptus Deo, ne<g ref="char:EOLhyphen"/>ceſſe fuit ut tentatio proba<g ref="char:EOLhyphen"/>ret te.</hi> Tob. 12.13.</note>
+               <hi>It was neceſſary</hi> (ſaith the ſcripture) <hi>to try thee by tribulation, becauſe thou waſt acceptable to God.</hi>
+            </p>
+            <p>It is a matter almoſt impoſſible to preſerve a great vertue in perpetuall proſperity; one muſt be more then a man, and have a double ſpirit: which is excellently well obſerved by S.
+<hi>Auguſtine,</hi> upon the words of <hi>Elizeus: I entreat your ſpirit may be doubled in me. Elizeus</hi> (ſaith he) begged the ſpirit of
+<hi>Elias</hi> might be doubled in him, becauſe he was to live in the favour of Court and worldly proſperities, where the way is more ſlippery and dan<g ref="char:EOLhyphen"/>gers moſt frequent. His Maſter <hi>Elias</hi> had paſſed his life in many perſecu<g ref="char:EOLhyphen"/>tions, wherefore a ſingle ſpirit was ſufficient for his direction, adverſity tunes are ſubject to deep dronkenneſſes and ſupine forgetfulneſſe of God, the Prophet ſaith by an inſtinct of the Divinity; <hi>Let your ſpirit be doubled in me.</hi>
+               <note place="margin">Reg
+4.2.9. Aug. l. 2. de mi<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Scrip.
+<hi>Obſecro ut fiat in me duplex ſpirit us tuus. Fiat in me du<g ref="char:EOLhyphen"/>plex ſpiritus.</hi> Boet. de conſo. l. 2. proſ. 8.</note>
+            </p>
+            <p>Proſperity under the ſhew of felicity deceiveth us; tribulation is ever true: the one flatters us, the other inſtructed us; the one tyeth up our ſenſes and reaſon, the other unbinds them; the one is windy, empty, giddy, ignorant, the other ſober, reſerved, and prudent; the one withdaweth us from reall good by the allurements of vanity, the other reduceth us by a wholſome way into the duty from whence we wandred. S.
+<hi>Bernard</hi> ſaith excellently:
+<note place="margin">
+                  <hi>Quando hoc in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>autis non ſunt ad diſciplinam quod ignis ad ceram, quod ſo lis radius adni vem vel glacie<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi>
+                  <p>
+                     <hi>Sapiens David ſapiens Solomo<g ref="char:cmbAbbrStroke">̄</g> ſed bladienti<g ref="char:EOLhyphen"/>bus nimis ſe<g ref="char:EOLhyphen"/>cundis rebus alter de parte, alter ex toto de<g ref="char:EOLhyphen"/>ſipuit.</hi>
+                  </p>
+                  <p>
+                     <hi>Magnus qui in<g ref="char:EOLhyphen"/>cidens
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>in ad<g ref="char:EOLhyphen"/>verſa non exci<g ref="char:EOLhyphen"/>dit, vel parùm à ſapientia, n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> minor cui prae<g ref="char:EOLhyphen"/>ſens faelicitas ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> arriſit non irri<g ref="char:EOLhyphen"/>ſit.</hi>
+                  </p>
+               </note>
+               <hi>Proſperity is in weake and inconſiderate ſoules, as fire to waxe, and the ſunnes<pb n="3" facs="tcp:159745:4"/>rayes to ſnow. David</hi> was very wiſe, and <hi>Solomon</hi> much more, yet both charmed by the great ſucceſſe of affaires loſt underſtanding, the one at leaſt in part, the other wholy. We muſt affirme, there is need of a ſtrong ſpirit to ſubſiſt in adverſity, without change of reaſon or conſtancy: but it is much more hard to taſt very pleaſing proſperities, and not be deceived. This is the cauſe why wiſe Providence, ever to keep vertue in breath, ceaſeth not to exerciſe it in this honourable liſt of great ſouls, and we behold that follow<g ref="char:EOLhyphen"/>ing theſe proceedings, it thence deriveth great advantages and many beau<g ref="char:EOLhyphen"/>ties. The Scripture noteth that
+<hi>Iob</hi>
+               <note n="a" place="margin">Job 42. Merſer. in Job.</note> returned into the luſter of his for<g ref="char:EOLhyphen"/>mer ſtate, gave titles to his three daughters, much obſerved: for hee called one by the name of <hi>Day,</hi> the other
+<hi>Caſſia,</hi> or as ſome Interpreters ſay, <hi>Amber,</hi> and the third <hi>Amaltaeas Horne,</hi> ſo the Septuagint tranſlate it. We muſt not think ſo holy a man would herein doe any ſlight thing, or not to ſome purpoſe. But if we believe ancient Fathers upon it, he meant by theſe 3. names to ſignify the three conditions of fortune. The firſt (which was before his great adverſities) is compared to the day rejoycing us with the naturall ſweetneſſe of it's ſerenity. The ſecond which was that of his calamity, to am<g ref="char:EOLhyphen"/>ber, becauſe it is properly in tribulation where vertue diffuſeth her good o<g ref="char:EOLhyphen"/>dours. It reſembleth aromatike ſpices, which more ſhew their vertue when they are pounded and brought into powder in a morter; or incenſe, which never lets it ſo much appeare what it is, as when it is caſt on coales: ſo that this Motto of the Wiſeman may be attributed to it:
+<note n="b" place="margin">
+                  <hi>Quaſi ignis refulgens, &amp; thus ardens in igne.</hi> Eccleſ. 50.10.</note>
+               <hi>A reſplendent fire, and incenſe burning in the fire.</hi> In the end iſſuing forth of tedious tribu<g ref="char:EOLhyphen"/>lations, and having been hardned and fortifyed under ſtormes; it openeth it's boſome, and unfoldeth admirable fruits, which fitly make it to be called the <hi>Horne of abundance.</hi> Wherefore we ſay with <hi>S. Ambroſe,</hi>
+               <note n="c" place="margin">
+                  <hi>Eſt ergo be<g ref="char:EOLhyphen"/>atitudo in dolo<g ref="char:EOLhyphen"/>ribus, quos pl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>na ſuavitatis virtus comprimit, &amp; coercet, ipſa ſibi dome<g ref="char:EOLhyphen"/>ſticis opibus a<g ref="char:EOLhyphen"/>bundans vel ad conſcientia vel ad gloriam.</hi> Ambr. offic. l. 2. c. 4.</note> there is a cer<g ref="char:EOLhyphen"/>taine beatitude in dolours, which virtue of ſweetneſſe and delight repreſſeth, from whence it acquireth palmes, and ineſtimable riches, as wel for ſatisfacti<g ref="char:EOLhyphen"/>on of it's conſcience, as the condition of glory.</p>
+            <p n="3">3. For we affirme for a third reaſon that God hath not a more glorious ſpectacle on earth then a Juſt man afflicted and patient. Is it not that which God himſelfe meant in the booke of <hi>Iob,</hi> where the Prince of darkneſſe tel<g ref="char:EOLhyphen"/>ling he had gone round about the world; he ſaid not to him: Haſt thou ſeen the Monarchies and Empires, which bow under my ſcepter, and circumvolve under my laws? Haſt thou ſeen Palaces of Kings and Princes, whoſe turrets penetrate the clouds? Haſt thou ſeen armyes all encloſed with ſwords, ma<g ref="char:EOLhyphen"/>king the earth tremble under the claſhing of their armes? Haſt thou beheld the theaters, beauties, and triumph of greatneſſe? Haſt thou conſidered all the wealth which nature reſerveth for me in magazins? He ſayes nothing of all that. What then?
+<note n="d" place="margin">
+                  <hi>Numquid conſideraſti ſer<g ref="char:EOLhyphen"/>vum meum Job, quod non ſit ei ſimilis in terra?</hi> Job 8.</note>Haſt thou looked on my ſervant <hi>Iob,</hi> who hath not his like on earth? And what maketh him more admirable, then that which <hi>Caſſianus</hi>
+               <note n="e" place="margin">
+                  <hi>Ex locuplete pauperrimus, nudus ex divite, ex valido tabidus, ex inclyto &amp; glorioſo ignobilis, ſterquilinii factus
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abitator, &amp; ve<g ref="char:EOLhyphen"/>lut quide<g ref="char:cmbAbbrStroke">̄</g> corporis ſui ſaeviſſimus carnifex, teſta radebat ſaniem, &amp; membro<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> glebas vermium merſis in profunda vulneribus, manibus detra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ebat.</hi> Caſſia. Cola. 5. de nece Sanctorum.</note> mentioneth; A man was ſeen abounding in all ſorts of bleſſings become very poore, having not ſo much as wherewith to cover his nakedneſſe,
+<pb n="4" facs="tcp:159745:5"/>fallen from a moſt perfect health into a prodigious malady, which disfigured his whole body, and having loſt ſo many goodly farms, reduced to the extre<g ref="char:EOLhyphen"/>mity of being the inhabitant of a wretched dunghill: But he out-braving his miſeries, and ſhewing himſelfe to be nothing curious, tooke a rough ſtone to wipe his wounds, and putting his hand farre into the bottome of his ulcers, drew thence the corruption and wormes, which made him honourable by the lights of his patience. Have we not cauſe to cry out with
+<hi>Tertullian,</hi>
+               <note n="f" place="margin">
+                  <hi>Quale in il<g ref="char:EOLhyphen"/>lo viro feretrii Deus de diabolo extruit! quale vexillu<g ref="char:cmbAbbrStroke">̄</g> de mi<g ref="char:EOLhyphen"/>mico ſuae gloriae extulit?</hi> Tert. de pat. c. 13.</note>
+               <hi>Oh what a trophey hath God erected in this holy man! O, what a ſtandard hath he advanced in the ſight of all his enemies!</hi> I dare freely pronounce it, there is not any approacheth more neere to God, then a man laden with afflictions, and become invincible in the armes of patience. And I ask of you, what made <hi>Toby</hi> to be called the <hi>Good God,</hi>
+               <note n="g" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. Alex. Paedag. 2.</note> but this amirable vertue? I ſay, although many have been honoured with marks of the Divinity, by reaſon of their fa<g ref="char:EOLhyphen"/>vours and benignities towards men, (there being nothing which ſo charmeth people as the profuſion of benefits) yet intereſt was the cauſe great men were flattered with ſuch titles above their deſerts, whereas quite otherwiſe Praiſe rendred to Patience is much more ſincere, as being expreſſed by a certaine ve<g ref="char:EOLhyphen"/>neration afforded to a vertue abſolutely heroick: which makes me conclude, that men, raviſhed with the ſight of this notable patience which ſhined in <hi>Toby,</hi> when having done well, evill was retributed, ſurnamed him the <hi>Good God,</hi> not for any other reaſon but his admirable conſtancy, having this Maxime well engraven in their hearts, that God hath not on earth a more perfect Image of his greatneſſe, then a patient man. <hi>Denis</hi>
+               <note n="h" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Dion. ep. 8.</note> likewiſe plainly calleth Patience the imitation of the Divinity, and addeth,
+<hi>Moſes</hi> was honoured with the rayes of divine viſion for his ſingular manſuetude.</p>
+            <p n="4">4. Laſtly, I ſay tribulation confirmeth us in the faith of future things, as being a manifeſt proofe of Beatitude. For reaſoning though never ſo little by the light of nature, we judge if there be any juſtice in men, it is in God as in its ſource, with an incomparable eminency, and therefore we cannot ima<g ref="char:EOLhyphen"/>gine a Divinity without the inheritance of goodneſſe and equity, which per<g ref="char:EOLhyphen"/>petually accompany it. Now when we ſee innocent men continually afflict<g ref="char:EOLhyphen"/>ed, who goe out of this life by bloody and horrible wayes, many times op<g ref="char:EOLhyphen"/>preſſed by the tyranny of men, and having none to revenge their aſhes, we ne<g ref="char:EOLhyphen"/>ceſſarily conclude, there is in the other life another Juſtice, and another Tri<g ref="char:EOLhyphen"/>bunall, where Cauſes muſt be decided in a laſt Court of Judicature. We ſay with S. <hi>Paul,</hi>
+               <note n="i" place="margin">
+                  <hi>Expectatio creaturae reve<g ref="char:EOLhyphen"/>lationem filiorii Dei expectat: vanitati enim creatura ſubje<g ref="char:EOLhyphen"/>cta eſt, non vo<g ref="char:EOLhyphen"/>lens, ſed propter eum qui ſubje<g ref="char:EOLhyphen"/>cit cam in ſpe: quia &amp; ipſa creatura libera<g ref="char:EOLhyphen"/>bitur à ſervi<g ref="char:EOLhyphen"/>tute corruptio<g ref="char:EOLhyphen"/>nis in libertate<g ref="char:cmbAbbrStroke">̄</g> gloriae filiorum Dei.</hi> Rom. 8.</note>
+               <hi>The expectation of the creature looketh for the revelation of Gods children: For every creature is ſubject to Nothing, not of his owne li<g ref="char:EOLhyphen"/>king, but by the ordinance of him, who hath ſubjected him with hope of riſing againe: For creatures ſhall be delivered from the ſervitude of all corruption into the liberty of the children of God.</hi> That was it, which comforted all the Martyrs in hideous torments, when their ſoules were torne out of their bodies with incomparable violence. For although mortall members yeelded to the ſword of perſecution, yet they beh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld, though with an eye drenched in blood and teares, the bright glory which waited on them, and ſaw as in a mirrour the thrones of theſe prodigious ſufferings diſpoſed all into crownes. There <hi>Stephen</hi> ſaw his ſtones changed into as many rubies to ſerve for mat<g ref="char:EOLhyphen"/>ter of veneration to piety, and an example of courage for all poſterity. There <hi>Lawrence</hi> looked on his flames turned into roſes and delights. There<pb n="5" facs="tcp:159745:5"/>
+               <hi>Felicitas,</hi> the mother of glories and triumphs, beheld ſeven ſonnes, who recei<g ref="char:EOLhyphen"/>ved her with palmes in their hands into the beautifull pavillions of heaven, where all torments made an end to give beginning to infinite comforts. That is it which animated all the juſt in ſo great a heap of tribulations, and which made them ſpeak theſe words of <hi>Tertullian,</hi>
+               <note n="a" place="margin">
+                  <hi>Satis ido<g ref="char:EOLhyphen"/>neus patientiae ſequeſter Deus ſi injuriam de<g ref="char:EOLhyphen"/>poſueris penes eum, ultor eſt; ſi damnum, reſti<g ref="char:EOLhyphen"/>tutor eſt; ſi do<g ref="char:EOLhyphen"/>lorem, medicus eſt; ſi mortem, reſuſcitator. O quantum pati<g ref="char:EOLhyphen"/>entiae licet ut Deum habeat debitorem!</hi> Tert. de pat. 15.</note>
+               <hi>God is payable enough, in that he is the Arbiter and Feoffee of your patience. If you commit an injury to him, he is the Avenger of it; if a loſſe of goods, he is the reſtorer; if a paine or ma<g ref="char:EOLhyphen"/>lady, he is the Phyſitian; ſince it makes God himſelfe the debtor, who by the condition of his independent nature, being not accountable to any, doth notwith<g ref="char:EOLhyphen"/>ſtanding particularly bind himſelfe to patience.</hi>
+            </p>
+            <p>Let us conclude with foure excellent inſtructions to be obſerved in adverſi<g ref="char:EOLhyphen"/>ty, which are expreſſed in the book of
+<hi>Job;</hi>
+               <note n="b" place="margin">Job 1. <hi>Tunc ſurrexit, &amp; ſci<g ref="char:EOLhyphen"/>dit veſtimenta ſua, &amp; tonſo ca<g ref="char:EOLhyphen"/>pite corruens in terram, dixit, Nudus egreſſus ſum, &amp;c.</hi>
+               </note> for it is ſaid, <hi>He rent his gar<g ref="char:EOLhyphen"/>ments, and having cut off his haire, and proſtrated himſelfe on the earth, ſaid, Naked I came out of my mothers wombe, and naked I returne into earth.</hi>
+            </p>
+            <p>Note, that riſing up he rent his garments, to ſhew he couragiouſly diſchar<g ref="char:EOLhyphen"/>ged himſelfe of all exteriour bleſſings, which are riches and poſſeſſions ſignifi<g ref="char:EOLhyphen"/>ed by garments. He cut his haire, which was a ſigne he put the whole body into the hands of God, to diſpoſe of it at his pleaſure. For as thoſe Ancients ſacrificing a Victime firſt pulled off the haire and threw into the fire, to teſti<g ref="char:EOLhyphen"/>fie the whole body was already ordained to ſacrifice; ſo ſuch as for ceremony gave their haire to temples, proteſted they were dedicated to the ſervice of the Divinity, to whom the vow was made. In the third inſtance, he proſtrated himſelfe on the earth, acknowledging his beginning by a moſt holy humility. And for concluſion he prayed and adored with much reverence. Behold all you ſhould practice in tribulation well expreſſed in this mirrour of patience. Firſt, are you afflicted with loſſe of goods, either by ſome unexpected chance, or by ſome tyrannie and injuſtice? Abate not your courage, but conſidering the nullity of all earthly bleſſings, and the greatneſſe of eternall riches, ſay, My God, although I have endeavoured hitherto to preſerve the wealth thou gaveſt me, as an inſtrument of many good deeds, yet if thou haſt ordained in the ſacred counſell of thy providence, that I muſt be deprived of them for my much greater ſpirituall availe, I from this time renounce them with all my heart, and am ready to be diſpoyled, even to the laſt nakedneſſe, the more perfectly to enter into the imitation of thy poverty. Say with <hi>Lewis,</hi> Arch-Biſhop of
+<hi>Tholouſe,</hi>
+               <note place="margin">
+                  <hi>Divitiae meae Chriſtus, deſint caetera. Omnis copia quae Deus meus non eſt, mihi inopia eſt.</hi>
+               </note>
+               <hi>Jeſus is all my riches, and with him I am content in the want of all other wealth. All plenty, which is not God, is meere penury to me.</hi>
+            </p>
+            <p>If you be tormented with bodily pain, by maladies, by death of allyes, ſay, My God, to whom belongs this afflicted body? Is it not to thee? Is not this one of thy members? It now endureth ſome paine, ſince thou haſt ſo appoin<g ref="char:EOLhyphen"/>ted, and it complaines and groneth under the ſcourge: where are ſo many precepts of patience? where is the love of ſuffering? where conformity to the croſſe? <hi>Olalla</hi> a Virgin, about thirteene or fourteene yeeres of age, as ſhee was martyred, and her body torne with iron hookes, beheld her members all bloody, and ſaid, O my God, what a brave thing is it to read theſe characters, where I ſee thy tropheys and monuments imprinted with iron on my body, and written in my blood.<note place="margin">
+                  <hi>Quam juvat hos apices lege<g ref="char:EOLhyphen"/>re qui tua Chri<g ref="char:EOLhyphen"/>ſte trophea no<g ref="char:EOLhyphen"/>tent.</hi> Prudent.</note> A creature ſo tender, ſo delicate, ſhall ſhe ſhew<pb n="6" facs="tcp:159745:6"/>ſuch courage in the midſt of torments, ſuch transfixing paynes, and cannot I reſolve to ſuffer a little evill with ſome manner of patience? If it be the death of an allie, behold that body, not in the ſtate wherein it now appeares, but in the bright luſtre of glory, wherewith you ſhall behold it in the day of the Re<g ref="char:EOLhyphen"/>ſurrection, wiping away your tears, ſay what <hi>Ruricius</hi> did,
+<note place="margin">
+                  <hi>Fleant mortuos qui ſpem reſur<g ref="char:EOLhyphen"/>rectionis habere non poſſunt. Fleant mortui mortuas ſuos, quos in perpe<g ref="char:EOLhyphen"/>tuum exiſtima<g ref="char:cmbAbbrStroke">̄</g>t interiiſſe.</hi>
+               </note>
+               <hi>Let them bewaile the dead, who cannot have any hope of Reſurrection. Let the dead lament their dead friends, whom they account dead for ever.</hi>
+            </p>
+            <p>In the third place, arme your ſelfe with profound humility, and looking on the earth from whence your body came, ſay, My God, it is againſt my pride thy rod is lifted up in this tribulation. Shall ſuch a creature as I, drawne out of the duſt, become proud againſt thy commandments, and ſo often ſhake off the yoke of thy law? I now acknowledge from the bottome of my ſoule the ab<g ref="char:EOLhyphen"/>jectneſſe of my nothing, and proteſt with all reſentments of heart my depen<g ref="char:EOLhyphen"/>dence on thee. The little herbe called
+<hi>Trefoyle,</hi> foldeth up the three leaves it beareth, when thunder roareth, thereby willing to tell us, it will not lift a creaſt, nor raiſe a briſtle againſt Heaven. Lightning alſo, which teareth huge trees aſunder, never falls upon it. My God, I heare thy hand murmuring over my head in this great affliction, and I involve me within my ſelfe, and be<g ref="char:EOLhyphen"/>hold the element whereinto I muſt be reduced to doe the homage my mortali<g ref="char:EOLhyphen"/>ty oweth thee. Exerciſe not the power of thy thunders againſt a worme of the earth, againſt a reed which ſerves for a ſport to the wind.</p>
+            <p>Laſtly, take courage what you may in the accidents that happen, and by the imitation of our Saviour retire into the boſome of Prayer, which is a ſove<g ref="char:EOLhyphen"/>raigne meanes to calme all ſtormes. Jeſus prayed in his agony,<note place="margin">
+                  <hi>Factus in ago<g ref="char:EOLhyphen"/>nia prolixius orabat.</hi>
+               </note> and the more his ſadneſſe encreaſed, the more he multiplyed his prayers. Say in imitation of him,
+<note place="margin">
+                  <hi>Domine quid multiplicati ſunt qui tribu<g ref="char:EOLhyphen"/>lant me. Multi inſurgunt ad<g ref="char:EOLhyphen"/>verſum me. Multi dicune animae meae, non eſt ſalus ip<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in Deo ejus. T<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> autem Domine ſuſceptor meus, &amp;c.</hi>
+               </note>
+               <hi>My God, why are my perſecutors ſo encreaſed? Many riſe up againſt me. Many ſay to my ſoule, there is no ſalvation for it in God. But Lord thou art my Protectour, and my glory, thou art he who wilt make me exalt my head above all mine enemies.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="example">
+            <pb n="7" facs="tcp:159745:6"/>
+            <head>An Example of Conſtancie in Tribulation.</head>
+            <p>WE are able to endure more then we thinke. For there are none but ſleight evils, which cauſe us readily to deplore, and which raiſe a great noiſe, like to thoſe brooks that purle among pibbles; whilſt great ones paſſe through a generous ſoule, as huge rivers which drive their waves along with a peacefull majeſty.</p>
+            <p>This manifeſtly appeareth in the death of <hi>Soſa</hi> and
+<hi>Eleonora,</hi> related by <hi>Maffaeus</hi> in the ſixteenth Book of his Hiſtory of the Indies.<note place="margin">Muffaeus Hiſt. Indicar. l.
+16.</note> This <hi>Soſa</hi> was by Nation a Portingale, a man of quality, pious, rich, liberall, and valiant, mar<g ref="char:EOLhyphen"/>ryed to one of the moſt vertuous women in the whole Kingdome. They having been already ſome good time in the Indies, and inflamed with the deſire of ſee<g ref="char:EOLhyphen"/>ing their deare Countrey againe, embarked at <hi>Cochin</hi> with their children very yong, ſome Gentlemen and Officers, and with about ſix hundred men. The beginning of their navigation was very proſperous; but being arrived at <hi>Capo de bona ſperanza,</hi> they there found the deſpaire of their returne. A Weſternly wind beat them back with all violence; clouds gathered, thunders roared, heaven it ſelfe ſeemed to break into fire over their heads, and under-foot they ſaw nothing but abyſſes and images of death. If they would anchor, the O<g ref="char:EOLhyphen"/>cean toſſeth them; if returne to the Indian coaſt, contrary winds blow to ſtay their paſſages. Their ſayles are torne, maſt crack'd, rudder broken, their ſhip ſhaken with ſurges begining to leake, induſtry of men fruitleſſe, and all let looſe to the ſway of tempeſts.</p>
+            <p>To conclude their unhappineſſe another Southern wind violently thruſt them into the port, where they met with ſhipwrack. They muſt avoyd this counter-buffe if they would not be buried in the waves. They caſt anchor to ſtay the ſhip, and leaped into cock-boats to recover ſhore with the more ſafety. <hi>Soſa</hi> firſt of all ſaved himſelfe, his wife and children, carrying with him his gold, ſilver, and jewels, ſo much as ſo imminent a danger would per<g ref="char:EOLhyphen"/>mit. The boats after a returne or two were ſcattered, the cable unto which the anchor of their ſhip was faſtned brake, the ſides leaked, the keele opened, every man ſought to ſave himſelfe, many were drowned, other ſtrugled with the Ocean, golden coffers, painted cabbinets, and the goodly riches of the <hi>Indies</hi> ſwo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, with men halfe-dead toſſed by the waves amongſt fardells and packs, and loſing life, loſt not (as yet) the ſight of that which made them live. Some became black with the buffe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s they received, others bedewed the ſea with their bloud, yet all deſired to reach the haven; ſo much deſire of life poſſeſſeth us. Scarcely got they thither, but they ſaw their veſſell ſinke downe to the bottome, leaving them not any hope of returne. The dead bodies of their companions with the dolefull baggage utterly ſpoiled with ſea-water, were caſt up at their feet. On what ſide ſoever they reflect, nothing is ſeen but calamity. Here the dead which begged buriall, there the living all drenched in water, laden with wounds, overwhelmed with toyle, worne with hunger to arrive in a ſavage Countrey, where having nothing almoſt to hope, they have all to feare.</p>
+            <p>
+               <pb n="8" facs="tcp:159745:7"/>All that poore <hi>Soſa</hi> could was to kindle fire, and draw our ſome tainted vi<g ref="char:EOLhyphen"/>ctuals wherewith to take refection; his heart was ſeyzed with apprehenſion of this diſaſter, in which he ſaw all he eſteemed moſt pretious involved, not<g ref="char:EOLhyphen"/>withſtanding clearing his brow he comforted this afflicted company, and ſaid,</p>
+            <p>
+               <hi>It was not time to thinke upon their loſſes, but to give God thanks he had ſaved their lives. That they were not ſo ignorant of the ſea, as not to know full well when one makes account to embrake thereon, he muſt expect hunger, thirſt, loſſes, ſhipwracks, and all the miſeries of mankind. And therefore when they happen they muſt be regarded as things already foreſeen, and profit made of evils for expiation of ſins. As for the reſt, being ſo diſtitude of all things in a ſtrange Country, there was no better riches then mutuall correſpon<g ref="char:EOLhyphen"/>dence, which would preſerve the whole body adhering together, as diſcord infallibly ruineth divided members.</hi> He added (fetching a deep ſigh) <hi>they might behold their poore Lady with her tender infants in the extremity of pe<g ref="char:EOLhyphen"/>vill, and that although both ſexe and age required they ſhould be ſomewhat aſ<g ref="char:EOLhyphen"/>ſiſted, he would neither ſpare himſelfe nor his for common ſafety.</hi>
+            </p>
+            <p>All anſwered with teares in their eyes, he might confidently lead them where he pleaſed, and that they had no farther hope of their lives, but in the obedience they reſolved to yeeld to his commands. Having then remained thir<g ref="char:EOLhyphen"/>teene dayes in this miſerable Port, barricadoed with huge ſtones and coſters left as remainders of their ſhipwrack to defend them by night from thieves and wild beaſts, they put themſelves in the way to bend towards the Eaſt, directly to a great river, which the
+<hi>Portingales</hi> had heretofore named of the holy Ghoſt. <hi>Soſa</hi> went foremoſt with his wife, who ſhewed maſculine courage in a tender conſtitution: ſhe had her little children by her ſides, whom turne by turne every one carryed. <hi>Andrew de Vaſe</hi> the Pilot was in the ſame rank, bearing the ſtandard of the Croſſe, attended alſo by about fourſcore <hi>Portingales,</hi> and an hundred ſervants who bore Armes. Then followed Mariners, poore creatures, and other inferiour people who were not yet cured.</p>
+            <p>The good ſervants moved with compaſſion of
+<hi>Eleonora,</hi> whom they beheld walking on foot, framed her a kind of Litter, and ſought all they might to comfort her; but that laſted not long. Needs in the end muſt the poore La<g ref="char:EOLhyphen"/>dy travell through places, where nothing was to be ſeene but wild beaſts, and Cafres more inhumane then beaſts; over rocks inacceſſible, mountains which raiſed their heads above the clouds, valleys not to be looked downe into with<g ref="char:EOLhyphen"/>out horrour, torrents ſwolne with ſhowers, marſhes cloy'd with mud, and which was moſt irkſome, they muſt goe at randome through wayes of which every one was ignorant, nor could any direct them; ſo that they made an hundred leagues of thirty. Their little ſtore of victuall failing, they eate, firſt, pieces of rotten whale, and other garbages of the ſea, then wild fruits, leaves, and laſtly ſpared not the carcaſes of beaſts, which they found in the deſert. From that tolerable, they muſt ſeeke it among <hi>Moo es</hi> and tygers, and buy it at eight Crowns the pint. There were many, who (overwhelmed with theſe hideous diſ<g ref="char:EOLhyphen"/>aſters) left the ſpoile of their bodies of cruell
+<hi>Aethiopians,</hi> to birds and beaſts, bidding a ſad adieu to their companions, with the laſt words that they deſired to be delivered to their friends and kinred. But the feares and<pb n="9" facs="tcp:159745:7"/>preſent calamities of every one made them to forget the dead with their re<g ref="char:EOLhyphen"/>queſts.</p>
+            <p>The unfortunate <hi>Soſa</hi> oppreſſed with ſorrow, conſidering ſo many miſhaps redoubled one upon another, and beholding his wife, who to comfort him ſhewed her ſelfe indefatigable both in mind and body, ſhe carrying her chil<g ref="char:EOLhyphen"/>dren in her turne, and encouraging all the reſt, it moſt ſenſibly wounded his heart to ſee a Lady ſo tenderly bred endure with ſuch conſtancy the utmoſt of worldly miſeries.</p>
+            <p>At laſt after foure months travell, they came to the river of the holy Ghoſt ere they were aware, where a petty King commanded, who very curteouſly re<g ref="char:EOLhyphen"/>ceived them, partly moved with the ſight of ſo great a calamity, and partly alſo deſiring by this opportunity to make uſe of the Portingales favour, where<g ref="char:EOLhyphen"/>of he ſtood in need for his affaires. He let them underſtand, as well he could, his deſire of their ſtay with him, in expectation of the commodity of re-em<g ref="char:EOLhyphen"/>barking. Otherwiſe, ſhould they hazard themſelves to proceed forward on their way in this miſerable equipage, they would be in danger to be robbed by a neighbour Prince, one of the greateſt theeves in the Countrey.</p>
+            <p>The more this Barbarian King ſhewed himſelfe curteous, ſo much the more <hi>Soſa</hi> grew ſuſpicious of his proceedings, and ſiniſterly judged, that ſuch ſweet<g ref="char:EOLhyphen"/>neſſe in a man unknowne was but the cover of an evill purpoſe. He thanked him for his favour, and very earneſtly beſought him to accommodate them with Boats to paſſe the River, which the other unwillingly did, ſeeing the pe<g ref="char:EOLhyphen"/>rill whereinto they haſtned to fall. They went, there remaining not above ſix ſcore of five of ſix hundred men, and having been five dayes on the river, they landed at adventure, rather conſtrained by night, then invited by the com<g ref="char:EOLhyphen"/>modiouſneſſe of place.</p>
+            <p>The next day they deſcryed a ſquadron of about two hundred
+<hi>Aethiopians,</hi> who came towards them, which made them prepare for defence: but troubled at their armes, they ſhewing themſelves peaceable enough, the other by ge<g ref="char:EOLhyphen"/>ſture and ſignes diſcovered their infinite miſeries. Theſe people wholly pra<g ref="char:EOLhyphen"/>cticed in tricks of deceit, and who would make benefit of this occaſion, let them with much adoe underſtand they might paſſe along to the Kings Palace, where they ſhould be very well entertained; which they attempted, but ap<g ref="char:EOLhyphen"/>proaching to the City in Armes, the King of theſe Barbarians timerous, and wicked, forbad them entrance, and confined them to a little wood, where they remained certaine dayes, paſſing the time in a poore traffick of knives and trifles, which they bar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered for bread.</p>
+            <p>But this treacherous Prince, who meant to catch them in the ſnare, ſeeing they had ſome commodities, ſent word to <hi>Soſa</hi> he muſt excuſe him that he de<g ref="char:EOLhyphen"/>nyed entrance into the City, and that two cauſes moved him to it. The firſt whereof was the dearth of victuall among his people, and the other the feare his ſubjects had of the Portingales Armes, they never as yet being accuſtomed thereto. But if they would deliver their weapons, they ſhould be received into his City, and his people conſigned to the next townes to be well entertained. This condition ſeemed ſomewhat harſh, but neceſſity diſgeſted all. They a<g ref="char:EOLhyphen"/>greed with one conſent to ſatisfie the King, <hi>Eleonora</hi> onely excepted, who ne<g ref="char:EOLhyphen"/>ver would conſent to betray their defences in a place where they had ſo much
+<pb n="10" facs="tcp:159745:8"/>need of them. Behold
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m diſarmed and ſeparated, ſome diſperſed into ſeve<g ref="char:EOLhyphen"/>rall villages here and there: <hi>Soſa</hi> with his wife, his children, and about twenty other brought to the Regall City.</p>
+            <p>Scarcely was he arrived, but all his company were robbed, beaten with baſtonadoes, and uſed that very night like dogs; whilſt himſelfe had little bet<g ref="char:EOLhyphen"/>ter entertainment: For this Prince of Savages took all his gold and jewels from him, and drave him away as a Pyrate, leaving him onely life and his poor garments. As they went out of this calamity deploring their miſery, behold a<g ref="char:EOLhyphen"/>nother troup of Cafres, armed with javelins, who ſet upon them, and let them know they muſt leave their apparell, if they meant not to forſake their skins. They were ſo confounded, they neither had ſtrength nor courage to defend themſelves: Behold the cauſe why they yeelded what was demanded, as ſheep their fleece. There was none but <hi>Eleonora,</hi> who preferring death before naked<g ref="char:EOLhyphen"/>neſſe, ſtood a long time diſputing about a poore ſmock with theſe ſavages: but in the end, Violence bereaved her of that, which Modeſty ſought by all means to keep.</p>
+            <p>The chaſte and honourable Lady ſeeing her ſelfe naked in the ſight of her domeſtiques, who caſt downe their eyes at the indignity of ſuch a ſpectacle, preſently buryed her ſelfe in ſand up to the middle, covering the reſt of her body with her diſhevelled haire, and every moment having theſe words in her mouth, <hi>Where is my Husband?</hi> Then turning towards the Pilot, and ſome of her Officers there preſent, ſhe ſayd unto them with a ſetled countenance, My good Freinds, you have hitherto affoorded to my husband your Captaine and to me your Miſtreſſe all the duty may be expected from your fidelity: It is time you leave this body, which hath already payd to earth the moity of it's tribute. Goe thinke upon ſaving your lives, and pray for me and mine: But if any one of your returne to our native Country, he may recount to thoſe who ſhall pleaſe to remember the unfortunate <hi>Eleonora,</hi> to what my ſinnes have reduced me. Having ſpoken theſe words ſhe ſtood immoveable in a deep ſilence ſome ſpace of time, then lifting her eyes to heaven, added,</p>
+            <p>
+               <hi>My God, behold the ſtate wherein I came from my mothers womb; and the condition whereunto I muſt quickly returne on earth, one part of me being al<g ref="char:EOLhyphen"/>ready as among the dead. My God, I kiſſe and adore the roddes of thy juſtice, which ſo roughly, though juſtly have chaſticed me. Take between thy arms the ſoul of my honoured husband, when he dies. Take the ſoule of my poore Chil<g ref="char:EOLhyphen"/>dren which are by my ſides. Take mine, now on my lipps, and which I yeeld to thee, as to my Lord and Father. There is no place farre diſtant from thee, nor any ſuccour impoſſible to thy power.</hi>
+            </p>
+            <p>As ſhe ſpake this, <hi>Soſa</hi> her husband came, having eſcaped out of the hands of theſe theeves who had robbed him, and finding his wife in this ſtate, he ſtood by her not able to utter a word. The Lady likewiſe ſpake onely with her eyes, which ſhe ſweetly fixed upon him to give comfort in the violence of theſe inſup<g ref="char:EOLhyphen"/>portable afflictions. But hee feeling his heart wholly drenched in bitter<g ref="char:EOLhyphen"/>neſſe, haſtned into a Wood of purpoſe to meet with ſome prey, at leaſt to feed his little children, which were as yet by their mothers ſide. Thence hee ere long returned, and found one of them already dead, to which with his owne<pb n="11" facs="tcp:159745:8"/>hands he gave buryall, immediately after he went againe into the Forreſt to hunt as he had accuſtomed, finding no other comfort.</p>
+            <p>His heart was perpetually in <hi>Eleonora's,</hi> where he ſurvived more then in his owne body, and comming to behold her once againe for his laſt, he perceived ſhe was already deceaſed, with his other child, who dyed neere her: there be<g ref="char:EOLhyphen"/>ing onely left two poore maids, who bewayled their Lady, and made the Wil<g ref="char:EOLhyphen"/>derneſſe reſound with their ſad complaints. He commanded them to retire a little aſide, then taking
+<hi>Eleonora</hi> by the hand, he kiſſed it, ſtanding a long time with his lips fixed unto it, and nothing to be heard but ſome broken ſighs. That done with the help of the maids, he buryed her neere his two children without any complaint or utterance of one word. In a ſhort ſpace after he re<g ref="char:EOLhyphen"/>turned into the thickeſt of the Forreſt, where it was thought he was devoured. So joyning his ſoule at leaſt to hers, who had tyed her heart to his in death, with examples of her conſtancie.</p>
+            <argument>
+               <p>Behold here a lively patterne of conſtancie in tribulation, in the perſons of <hi>Soſa</hi> and <hi>Eleonora,</hi> who even now we beheld reſplendently glittering in gold and jewels, guarded by a numerous attendance, and in an inſtant not onely de<g ref="char:EOLhyphen"/>ſpoiled of theſe worldly vanities, but even reduced to the greateſt extremities imaginable, to ſhew that this world hath nothing in it, which deſerves to be an object for our affection: But that we ought alwayes to have our hearts and minds irremoveably fixed upon the riches of Almighty God, who can when he pleaſeth raiſe the afflicted to the height of glory, and throw downe the moſt glorious to the bottome of affliction.</p>
+            </argument>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
